@@ -2,12 +2,12 @@
 
 /**
  * mul - multiplication
- * @a:
- * @b:
+ * @a: first no
+ * @b: second no
  * Return: sum of the mult
  */
 
 int mul(int a, int b)
-{
+i{
 	return (a * b);
 }
